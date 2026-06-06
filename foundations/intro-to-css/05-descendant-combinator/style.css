@@ -4,3 +4,13 @@
      font-size: 20px;
   text-align: center;
 }
+
+/* chain */
+.class.second-class {
+  font-size: 12px;
+}
+
+/* descendant */
+.class .second-class {
+  font-size: 24px;
+}
